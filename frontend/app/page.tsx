@@ -16,8 +16,8 @@ export default function LandingPage() {
               <Image
                 src="/chicken-logo.png"
                 alt="ChickenCare AI Logo"
-                width={50}
-                height={50}
+                width={100}
+                height={100}
                 className="h-6 w-6 sm:h-8 sm:w-8"
               />
               <span className="text-lg sm:text-xl font-bold text-gray-900">ChickenCare AI</span>
